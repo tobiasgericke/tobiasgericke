@@ -5,7 +5,7 @@ I am a passionate developer.
 --------------------------
 
 *   🌍  I'm based in Dresden, DE
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='[https://tobiasgericke.github.io/]'>Portfolio [Work in Progress]</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://tobiasgericke.github.io/'>Portfolio [Work in Progress]</a>
 *   🧠  Currently learning Tailwind and AI Agents
 *   🤝  I'm open to working and collaborating on interesting projects as a developer
 
@@ -22,4 +22,4 @@ I am a passionate developer.
 
 ### Socials
 
-<p align="left"> <a href="[https://www.linkedin.com/in/tobias-gericke/]" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/tobias-gericke/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
