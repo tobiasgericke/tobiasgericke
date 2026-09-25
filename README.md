@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a passionate developer.
 --------------------------
 
-*   🌍  I'm based in Dresden, DE
+*   🌍  I'm based in Leipzig, DE
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://tobiasgericke.github.io/'>Portfolio [Work in Progress]</a>
 *   🧠  Currently learning Tailwind and AI Agents
 *   🤝  I'm open to working and collaborating on interesting projects as a developer
